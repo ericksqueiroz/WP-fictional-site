@@ -1,0 +1,702 @@
+[22-Oct-2020 15:36:11 UTC] PHP Warning:  Use of undefined constant erick - assumed 'erick' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\experiment.php on line 1
+[22-Oct-2020 15:36:11 UTC] PHP Stack trace:
+[22-Oct-2020 15:36:11 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\experiment.php:0
+[22-Oct-2020 15:42:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\experiment.php on line 5
+[22-Oct-2020 16:17:00 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[22-Oct-2020 16:19:09 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 6
+[22-Oct-2020 16:19:16 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 6
+[22-Oct-2020 16:19:19 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 6
+[22-Oct-2020 16:19:19 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 6
+[22-Oct-2020 16:19:19 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 6
+[22-Oct-2020 16:19:20 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 6
+[22-Oct-2020 16:21:13 UTC] PHP Parse error:  syntax error, unexpected '>' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[22-Oct-2020 16:21:18 UTC] PHP Parse error:  syntax error, unexpected '/' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[22-Oct-2020 17:22:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blogingo() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php:9
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#3 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 9
+[22-Oct-2020 17:37:00 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ',' or ';' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 8
+[22-Oct-2020 17:37:06 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ',' or ';' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 8
+[22-Oct-2020 17:37:13 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ',' or ';' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 8
+[22-Oct-2020 17:37:14 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ',' or ';' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 8
+[22-Oct-2020 17:37:14 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ',' or ';' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 8
+[26-Oct-2020 16:20:38 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 4
+[26-Oct-2020 16:39:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_posts() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php:3
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#3 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[26-Oct-2020 17:16:15 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_action(), 0 passed in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 3 and at least 2 expected in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php:403
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php(3): add_action()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php(514): include('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-config.php(77): require_once('C:\\Users\\Erick ...')
+#3 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-load.php(37): require_once('C:\\Users\\Erick ...')
+#4 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Erick ...')
+#5 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php on line 403
+[26-Oct-2020 18:46:38 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[26-Oct-2020 18:46:42 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[26-Oct-2020 20:01:35 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_features' not found or invalid function name in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Oct-2020 20:01:35 UTC] PHP Stack trace:
+[26-Oct-2020 20:01:35 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:0
+[26-Oct-2020 20:01:35 UTC] PHP   2. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:22
+[26-Oct-2020 20:01:35 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-load.php:37
+[26-Oct-2020 20:01:35 UTC] PHP   4. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-config.php:77
+[26-Oct-2020 20:01:35 UTC] PHP   5. do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php:524
+[26-Oct-2020 20:01:35 UTC] PHP   6. WP_Hook->do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php:478
+[26-Oct-2020 20:01:35 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:311
+[26-Oct-2020 20:02:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_team_support() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php:13
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php(524): do_action('after_setup_the...')
+#4 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-config.php(77): require_once('C:\\Users\\Erick ...')
+#5 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-load.php(37): require_once('C:\\Users\\Erick ...')
+#6 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(13): re in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 13
+[26-Oct-2020 20:02:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_team_support() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php:13
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php(524): do_action('after_setup_the...')
+#4 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-config.php(77): require_once('C:\\Users\\Erick ...')
+#5 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-load.php(37): require_once('C:\\Users\\Erick ...')
+#6 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(13): re in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 13
+[26-Oct-2020 20:02:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_team_support() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php:13
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php(524): do_action('after_setup_the...')
+#4 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-config.php(77): require_once('C:\\Users\\Erick ...')
+#5 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-load.php(37): require_once('C:\\Users\\Erick ...')
+#6 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(13): re in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 13
+[26-Oct-2020 20:02:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_team_support() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php:13
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php(524): do_action('after_setup_the...')
+#4 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-config.php(77): require_once('C:\\Users\\Erick ...')
+#5 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-load.php(37): require_once('C:\\Users\\Erick ...')
+#6 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(13): re in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 13
+[26-Oct-2020 20:02:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_team_support() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php:13
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(287): university_features('')
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php(524): do_action('after_setup_the...')
+#4 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-config.php(77): require_once('C:\\Users\\Erick ...')
+#5 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-load.php(37): require_once('C:\\Users\\Erick ...')
+#6 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(13): re in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 13
+[26-Oct-2020 20:11:57 UTC] PHP Parse error:  syntax error, unexpected '">About Us</a></li>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 18
+[26-Oct-2020 20:14:03 UTC] PHP Parse error:  syntax error, unexpected 'js' (T_STRING) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 12
+[27-Oct-2020 14:19:02 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_get_post_parent_id(), 0 passed in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page.php on line 19 and exactly 1 expected in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\post.php:7069
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page.php(19): wp_get_post_parent_id()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#3 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#4 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\post.php on line 7069
+[27-Oct-2020 14:19:11 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_get_post_parent_id(), 0 passed in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page.php on line 19 and exactly 1 expected in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\post.php:7069
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page.php(19): wp_get_post_parent_id()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#3 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#4 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\post.php on line 7069
+[14-Nov-2020 16:13:39 UTC] PHP Warning:  Use of undefined constant test - assumed 'test' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 32
+[14-Nov-2020 16:13:39 UTC] PHP Stack trace:
+[14-Nov-2020 16:13:39 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[14-Nov-2020 16:13:39 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[14-Nov-2020 16:13:39 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[14-Nov-2020 16:13:39 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[14-Nov-2020 16:13:57 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 32
+[14-Nov-2020 16:14:03 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 32
+[14-Nov-2020 16:14:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 32
+[14-Nov-2020 16:14:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 32
+[14-Nov-2020 16:14:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 32
+[14-Nov-2020 17:26:20 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 17
+[14-Nov-2020 18:50:58 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 30
+[14-Nov-2020 18:50:58 UTC] PHP Stack trace:
+[14-Nov-2020 18:50:58 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[14-Nov-2020 18:50:58 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[14-Nov-2020 18:50:58 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[14-Nov-2020 18:50:58 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[14-Nov-2020 18:53:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php:28
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#3 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 28
+[14-Nov-2020 18:55:10 UTC] PHP Parse error:  syntax error, unexpected '$content' (T_VARIABLE) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 29
+[14-Nov-2020 18:59:29 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 30
+[14-Nov-2020 18:59:29 UTC] PHP Stack trace:
+[14-Nov-2020 18:59:29 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[14-Nov-2020 18:59:29 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[14-Nov-2020 18:59:29 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[14-Nov-2020 18:59:29 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[14-Nov-2020 18:59:35 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 30
+[14-Nov-2020 18:59:35 UTC] PHP Stack trace:
+[14-Nov-2020 18:59:35 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[14-Nov-2020 18:59:35 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[14-Nov-2020 18:59:35 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[14-Nov-2020 18:59:35 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[14-Nov-2020 18:59:36 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 30
+[14-Nov-2020 18:59:36 UTC] PHP Stack trace:
+[14-Nov-2020 18:59:36 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[14-Nov-2020 18:59:36 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[14-Nov-2020 18:59:36 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[14-Nov-2020 18:59:36 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[14-Nov-2020 18:59:36 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 30
+[14-Nov-2020 18:59:36 UTC] PHP Stack trace:
+[14-Nov-2020 18:59:36 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[14-Nov-2020 18:59:36 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[14-Nov-2020 18:59:36 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[14-Nov-2020 18:59:36 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[14-Nov-2020 19:01:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php:28
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#3 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 28
+[14-Nov-2020 19:01:29 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 28
+[14-Nov-2020 19:01:29 UTC] PHP Stack trace:
+[14-Nov-2020 19:01:29 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[14-Nov-2020 19:01:29 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[14-Nov-2020 19:01:29 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[14-Nov-2020 19:01:30 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[14-Nov-2020 19:03:17 UTC] PHP Parse error:  syntax error, unexpected '$post' (T_VARIABLE), expecting ')' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 28
+[14-Nov-2020 19:03:22 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 28
+[14-Nov-2020 19:03:22 UTC] PHP Stack trace:
+[14-Nov-2020 19:03:22 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[14-Nov-2020 19:03:22 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[14-Nov-2020 19:03:22 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[14-Nov-2020 19:03:22 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[14-Nov-2020 19:05:38 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 29
+[14-Nov-2020 19:05:38 UTC] PHP Stack trace:
+[14-Nov-2020 19:05:38 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[14-Nov-2020 19:05:38 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[14-Nov-2020 19:05:38 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[14-Nov-2020 19:05:38 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[14-Nov-2020 19:40:59 UTC] PHP Parse error:  syntax error, unexpected 'the_author' (T_STRING), expecting ',' or ';' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\archive.php on line 12
+[19-Nov-2020 17:15:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_exerpt() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php:59
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#3 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 59
+[19-Nov-2020 20:58:16 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 36
+[19-Nov-2020 20:58:23 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 36
+[19-Nov-2020 20:59:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 36
+[19-Nov-2020 20:59:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 36
+[19-Nov-2020 20:59:32 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 36
+[19-Nov-2020 20:59:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 36
+[19-Nov-2020 20:59:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 36
+[19-Nov-2020 20:59:50 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 36
+[19-Nov-2020 20:59:50 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 36
+[19-Nov-2020 20:59:53 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 36
+[19-Nov-2020 21:01:36 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 36
+[19-Nov-2020 21:05:59 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\header.php on line 36
+[09-Jan-2021 17:28:12 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:12 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:12 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:12 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:12 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:12 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:13 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:13 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:14 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:14 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:14 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:14 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:14 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:14 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:15 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:15 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:15 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:15 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:15 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:15 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:16 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:16 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:46 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:46 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:47 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:28:48 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:30:47 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:30:47 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:30:48 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:30:48 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:31:13 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:31:14 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:31:15 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:31:15 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:31:16 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:31:16 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:31:17 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:31:18 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:31:47 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:31:47 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:31:48 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:31:48 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:32:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:32:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:32:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:32:34 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:32:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:32:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:32:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:32:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:33:46 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:33:47 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:33:47 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:33:47 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:33:47 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:33:48 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:33:48 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:33:48 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:33:49 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:33:49 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:33:50 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:33:50 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:34:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:34:41 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:34:41 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:34:42 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:34:43 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:34:43 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:34:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:34:44 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:34:48 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:34:48 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:34:49 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:34:49 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:03 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:03 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:04 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:05 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:07 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:10 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:11 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:12 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:12 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:13 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:13 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:14 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:15 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:41 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:41 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:42 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:43 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:48 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:48 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:49 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:35:49 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:36:18 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:36:19 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:36:20 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:36:20 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:36:21 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:36:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:36:22 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:36:23 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:36:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:36:56 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:36:57 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:36:57 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:38:57 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:38:57 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:38:58 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:38:58 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:39:05 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:39:05 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:39:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:39:06 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:39:07 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:39:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:39:08 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 17:39:09 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: ::1:9000 (from HTTP_X_FORWARDED_FOR HTTP header), localhost:9000 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[09-Jan-2021 18:45:24 UTC] PHP Fatal error:  Cannot redeclare university_post_types() (previously declared in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php:4) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 27
+[09-Jan-2021 18:45:24 UTC] PHP Stack trace:
+[09-Jan-2021 18:45:24 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:0
+[09-Jan-2021 18:45:24 UTC] PHP   2. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:22
+[09-Jan-2021 18:45:24 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-load.php:37
+[09-Jan-2021 18:45:24 UTC] PHP   4. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-config.php:77
+[09-Jan-2021 18:45:26 UTC] PHP Fatal error:  Cannot redeclare university_post_types() (previously declared in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php:4) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 27
+[09-Jan-2021 18:45:26 UTC] PHP Stack trace:
+[09-Jan-2021 18:45:26 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-admin\edit.php:0
+[09-Jan-2021 18:45:26 UTC] PHP   2. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-admin\edit.php:10
+[09-Jan-2021 18:45:26 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-admin\admin.php:34
+[09-Jan-2021 18:45:26 UTC] PHP   4. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-load.php:37
+[09-Jan-2021 18:45:26 UTC] PHP   5. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-config.php:77
+[09-Jan-2021 18:46:43 UTC] PHP Fatal error:  Cannot redeclare university_post_types() (previously declared in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php:4) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 27
+[09-Jan-2021 18:46:43 UTC] PHP Stack trace:
+[09-Jan-2021 18:46:43 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[09-Jan-2021 18:46:43 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[09-Jan-2021 18:46:43 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:13
+[09-Jan-2021 18:46:43 UTC] PHP   4. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-load.php:37
+[09-Jan-2021 18:46:43 UTC] PHP   5. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-config.php:77
+[09-Jan-2021 18:53:52 UTC] PHP Parse error:  syntax error, unexpected ''add_items'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 13
+[09-Jan-2021 18:53:56 UTC] PHP Parse error:  syntax error, unexpected ''add_items'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 13
+[09-Jan-2021 20:00:58 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 33
+[16-Jan-2021 15:49:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_features' not found or invalid function name in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 287
+[16-Jan-2021 15:49:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_features' not found or invalid function name in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 287
+[16-Jan-2021 15:49:28 UTC] PHP Stack trace:
+[16-Jan-2021 15:49:28 UTC] PHP Stack trace:
+[16-Jan-2021 15:49:28 UTC] PHP   1. {main}() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[16-Jan-2021 15:49:28 UTC] PHP   1. {main}() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[16-Jan-2021 15:49:28 UTC] PHP   2. include() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[16-Jan-2021 15:49:28 UTC] PHP   2. include() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[16-Jan-2021 15:49:28 UTC] PHP   3. include() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[16-Jan-2021 15:49:28 UTC] PHP   3. include() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[16-Jan-2021 15:49:28 UTC] PHP   4. WP_CLI\bootstrap() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[16-Jan-2021 15:49:28 UTC] PHP   4. WP_CLI\bootstrap() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[16-Jan-2021 15:49:28 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[16-Jan-2021 15:49:28 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[16-Jan-2021 15:49:28 UTC] PHP   6. WP_CLI\Runner->start() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[16-Jan-2021 15:49:28 UTC] PHP   6. WP_CLI\Runner->start() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[16-Jan-2021 15:49:28 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[16-Jan-2021 15:49:28 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[16-Jan-2021 15:49:28 UTC] PHP   8. require() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[16-Jan-2021 15:49:28 UTC] PHP   8. require() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[16-Jan-2021 15:49:28 UTC] PHP   9. do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php:535
+[16-Jan-2021 15:49:28 UTC] PHP   9. do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php:535
+[16-Jan-2021 15:49:28 UTC] PHP  10. WP_Hook->do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php:484
+[16-Jan-2021 15:49:28 UTC] PHP  10. WP_Hook->do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php:484
+[16-Jan-2021 15:49:28 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:311
+[16-Jan-2021 15:49:28 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:311
+[16-Jan-2021 15:54:40 UTC] PHP Fatal error:  Cannot redeclare university_post_types() (previously declared in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php:5) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 36
+[16-Jan-2021 15:54:40 UTC] PHP Stack trace:
+[16-Jan-2021 15:54:40 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:0
+[16-Jan-2021 15:54:40 UTC] PHP   2. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php:22
+[16-Jan-2021 15:54:40 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-load.php:37
+[16-Jan-2021 15:54:40 UTC] PHP   4. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-config.php:77
+[16-Jan-2021 15:54:42 UTC] PHP Fatal error:  Cannot redeclare university_post_types() (previously declared in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php:5) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 36
+[16-Jan-2021 15:54:42 UTC] PHP Stack trace:
+[16-Jan-2021 15:54:42 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-admin\edit.php:0
+[16-Jan-2021 15:54:42 UTC] PHP   2. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-admin\edit.php:10
+[16-Jan-2021 15:54:42 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-admin\admin.php:34
+[16-Jan-2021 15:54:42 UTC] PHP   4. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-load.php:37
+[16-Jan-2021 15:54:42 UTC] PHP   5. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-config.php:77
+[16-Jan-2021 18:15:35 UTC] PHP Parse error:  syntax error, unexpected ''menu_icon'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 19
+[16-Jan-2021 18:15:36 UTC] PHP Parse error:  syntax error, unexpected ''menu_icon'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\mu-plugins\university-post-types.php on line 19
+[17-Jan-2021 21:51:03 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_features' not found or invalid function name in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 287
+[17-Jan-2021 21:51:03 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_features' not found or invalid function name in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 287
+[17-Jan-2021 21:51:03 UTC] PHP Stack trace:
+[17-Jan-2021 21:51:03 UTC] PHP Stack trace:
+[17-Jan-2021 21:51:03 UTC] PHP   1. {main}() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[17-Jan-2021 21:51:03 UTC] PHP   1. {main}() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[17-Jan-2021 21:51:03 UTC] PHP   2. include() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[17-Jan-2021 21:51:03 UTC] PHP   2. include() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[17-Jan-2021 21:51:03 UTC] PHP   3. include() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[17-Jan-2021 21:51:03 UTC] PHP   3. include() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[17-Jan-2021 21:51:03 UTC] PHP   4. WP_CLI\bootstrap() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[17-Jan-2021 21:51:03 UTC] PHP   4. WP_CLI\bootstrap() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[17-Jan-2021 21:51:03 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[17-Jan-2021 21:51:03 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[17-Jan-2021 21:51:03 UTC] PHP   6. WP_CLI\Runner->start() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[17-Jan-2021 21:51:03 UTC] PHP   6. WP_CLI\Runner->start() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[17-Jan-2021 21:51:03 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[17-Jan-2021 21:51:03 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[17-Jan-2021 21:51:03 UTC] PHP   8. require() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[17-Jan-2021 21:51:03 UTC] PHP   8. require() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[17-Jan-2021 21:51:03 UTC] PHP   9. do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php:535
+[17-Jan-2021 21:51:03 UTC] PHP   9. do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php:535
+[17-Jan-2021 21:51:03 UTC] PHP  10. WP_Hook->do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php:484
+[17-Jan-2021 21:51:03 UTC] PHP  10. WP_Hook->do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php:484
+[17-Jan-2021 21:51:03 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:311
+[17-Jan-2021 21:51:03 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:311
+[23-Jan-2021 17:23:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_features' not found or invalid function name in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 287
+[23-Jan-2021 17:23:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_features' not found or invalid function name in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 287
+[23-Jan-2021 17:23:54 UTC] PHP Stack trace:
+[23-Jan-2021 17:23:54 UTC] PHP Stack trace:
+[23-Jan-2021 17:23:54 UTC] PHP   1. {main}() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Jan-2021 17:23:54 UTC] PHP   1. {main}() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Jan-2021 17:23:54 UTC] PHP   2. include() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Jan-2021 17:23:54 UTC] PHP   2. include() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Jan-2021 17:23:54 UTC] PHP   3. include() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Jan-2021 17:23:54 UTC] PHP   3. include() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Jan-2021 17:23:54 UTC] PHP   4. WP_CLI\bootstrap() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Jan-2021 17:23:54 UTC] PHP   4. WP_CLI\bootstrap() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Jan-2021 17:23:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Jan-2021 17:23:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Jan-2021 17:23:54 UTC] PHP   6. WP_CLI\Runner->start() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Jan-2021 17:23:54 UTC] PHP   6. WP_CLI\Runner->start() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Jan-2021 17:23:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Jan-2021 17:23:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Jan-2021 17:23:54 UTC] PHP   8. require() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Jan-2021 17:23:54 UTC] PHP   8. require() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Jan-2021 17:23:54 UTC] PHP   9. do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php:535
+[23-Jan-2021 17:23:54 UTC] PHP   9. do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php:535
+[23-Jan-2021 17:23:54 UTC] PHP  10. WP_Hook->do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php:484
+[23-Jan-2021 17:23:54 UTC] PHP  10. WP_Hook->do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php:484
+[23-Jan-2021 17:23:54 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:311
+[23-Jan-2021 17:23:54 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:311
+[23-Jan-2021 17:37:26 UTC] PHP Parse error:  syntax error, unexpected 'ç' (T_STRING) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 59
+[23-Jan-2021 17:37:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_exerpt() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php:59
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#3 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 59
+[23-Jan-2021 17:37:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_exerpt() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php:59
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#3 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 59
+[23-Jan-2021 17:37:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_exerpt() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php:59
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#3 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 59
+[23-Jan-2021 17:37:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_exerpt() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php:59
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#3 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 59
+[23-Jan-2021 17:37:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_exerpt() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php:59
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#3 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 59
+[23-Jan-2021 17:37:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_exerpt() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php:59
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#3 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 59
+[23-Jan-2021 17:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_exerpt() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php:59
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#3 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 59
+[23-Jan-2021 17:41:05 UTC] PHP Parse error:  syntax error, unexpected ':' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 60
+[23-Jan-2021 17:41:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function has_excerpy() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php:59
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#3 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 59
+[23-Jan-2021 18:18:56 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (event_date) at position 0 (e): The timezone could not be found in the database in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php:29
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php(29): DateTime->__construct('event_date')
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#3 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#4 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 29
+[23-Jan-2021 18:18:58 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (event_date) at position 0 (e): The timezone could not be found in the database in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php:29
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php(29): DateTime->__construct('event_date')
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#3 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#4 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 29
+[23-Jan-2021 18:19:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_field() in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php:29
+Stack trace:
+#0 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Erick ...')
+#2 C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Erick ...')
+#3 {main}
+  thrown in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 29
+[23-Jan-2021 19:00:13 UTC] PHP Parse error:  syntax error, unexpected ''orderby'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 23
+[23-Jan-2021 19:07:56 UTC] PHP Parse error:  syntax error, unexpected ']' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 29
+[23-Jan-2021 19:08:44 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:09:29 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:09:29 UTC] PHP Stack trace:
+[23-Jan-2021 19:09:29 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:09:29 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:09:29 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:09:29 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 19:10:15 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:10:15 UTC] PHP Stack trace:
+[23-Jan-2021 19:10:15 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:10:15 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:10:15 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:10:15 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 19:10:19 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:10:19 UTC] PHP Stack trace:
+[23-Jan-2021 19:10:19 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:10:19 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:10:19 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:10:19 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 19:11:46 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:11:46 UTC] PHP Stack trace:
+[23-Jan-2021 19:11:46 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:11:46 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:11:46 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:11:46 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 19:11:48 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:11:48 UTC] PHP Stack trace:
+[23-Jan-2021 19:11:48 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:11:48 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:11:48 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:11:48 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 19:11:49 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:11:49 UTC] PHP Stack trace:
+[23-Jan-2021 19:11:49 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:11:49 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:11:49 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:11:49 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 19:12:19 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:12:19 UTC] PHP Stack trace:
+[23-Jan-2021 19:12:19 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:12:19 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:12:19 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:12:19 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 19:12:27 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:12:27 UTC] PHP Stack trace:
+[23-Jan-2021 19:12:27 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:12:27 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:12:27 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:12:27 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 19:13:03 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:13:03 UTC] PHP Stack trace:
+[23-Jan-2021 19:13:03 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:13:03 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:13:03 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:13:03 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 19:13:09 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:13:09 UTC] PHP Stack trace:
+[23-Jan-2021 19:13:09 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:13:09 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:13:09 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:13:09 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 19:13:19 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:13:19 UTC] PHP Stack trace:
+[23-Jan-2021 19:13:19 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:13:19 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:13:19 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:13:19 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 19:13:29 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:13:29 UTC] PHP Stack trace:
+[23-Jan-2021 19:13:29 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:13:29 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:13:29 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:13:29 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 19:15:36 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:15:36 UTC] PHP Stack trace:
+[23-Jan-2021 19:15:36 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:15:36 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:15:36 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:15:36 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 19:15:59 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:15:59 UTC] PHP Stack trace:
+[23-Jan-2021 19:15:59 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:15:59 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:15:59 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:15:59 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 19:16:00 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:16:00 UTC] PHP Stack trace:
+[23-Jan-2021 19:16:00 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:16:00 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:16:00 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:16:00 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 19:16:10 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:16:10 UTC] PHP Stack trace:
+[23-Jan-2021 19:16:10 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:16:10 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:16:10 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:16:10 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 19:16:16 UTC] PHP Warning:  Use of undefined constant Ymd - assumed 'Ymd' (this will throw an Error in a future version of PHP) in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 19
+[23-Jan-2021 19:16:16 UTC] PHP Stack trace:
+[23-Jan-2021 19:16:16 UTC] PHP   1. {main}() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:0
+[23-Jan-2021 19:16:16 UTC] PHP   2. require() C:\Users\Erick Q\Local Sites\fictional-university\app\public\index.php:17
+[23-Jan-2021 19:16:16 UTC] PHP   3. require_once() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-blog-header.php:19
+[23-Jan-2021 19:16:16 UTC] PHP   4. include() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\template-loader.php:106
+[23-Jan-2021 20:34:29 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_features' not found or invalid function name in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 287
+[23-Jan-2021 20:34:29 UTC] PHP Stack trace:
+[23-Jan-2021 20:34:29 UTC] PHP   1. {main}() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Jan-2021 20:34:29 UTC] PHP   2. include() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Jan-2021 20:34:29 UTC] PHP   3. include() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Jan-2021 20:34:29 UTC] PHP   4. WP_CLI\bootstrap() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Jan-2021 20:34:29 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Jan-2021 20:34:29 UTC] PHP   6. WP_CLI\Runner->start() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Jan-2021 20:34:29 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Jan-2021 20:34:29 UTC] PHP   8. require() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Jan-2021 20:34:29 UTC] PHP   9. do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php:535
+[23-Jan-2021 20:34:29 UTC] PHP  10. WP_Hook->do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php:484
+[23-Jan-2021 20:34:29 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:311
+[23-Jan-2021 20:34:29 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_features' not found or invalid function name in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 287
+[23-Jan-2021 20:34:29 UTC] PHP Stack trace:
+[23-Jan-2021 20:34:29 UTC] PHP   1. {main}() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Jan-2021 20:34:29 UTC] PHP   2. include() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Jan-2021 20:34:29 UTC] PHP   3. include() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Jan-2021 20:34:29 UTC] PHP   4. WP_CLI\bootstrap() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Jan-2021 20:34:29 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Jan-2021 20:34:29 UTC] PHP   6. WP_CLI\Runner->start() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Jan-2021 20:34:29 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Jan-2021 20:34:29 UTC] PHP   8. require() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Jan-2021 20:34:29 UTC] PHP   9. do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php:535
+[23-Jan-2021 20:34:29 UTC] PHP  10. WP_Hook->do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php:484
+[23-Jan-2021 20:34:29 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:311
+[23-Jan-2021 20:34:29 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_features' not found or invalid function name in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 287
+[23-Jan-2021 20:34:29 UTC] PHP Stack trace:
+[23-Jan-2021 20:34:29 UTC] PHP   1. {main}() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Jan-2021 20:34:29 UTC] PHP   2. include() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Jan-2021 20:34:29 UTC] PHP   3. include() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Jan-2021 20:34:29 UTC] PHP   4. WP_CLI\bootstrap() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Jan-2021 20:34:29 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Jan-2021 20:34:29 UTC] PHP   6. WP_CLI\Runner->start() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Jan-2021 20:34:29 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Jan-2021 20:34:29 UTC] PHP   8. require() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Jan-2021 20:34:29 UTC] PHP   9. do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php:535
+[23-Jan-2021 20:34:29 UTC] PHP  10. WP_Hook->do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php:484
+[23-Jan-2021 20:34:30 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:311
+[26-Jan-2021 16:45:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_features' not found or invalid function name in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Jan-2021 16:45:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_features' not found or invalid function name in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 287
+[26-Jan-2021 16:45:49 UTC] PHP Stack trace:
+[26-Jan-2021 16:45:49 UTC] PHP Stack trace:
+[26-Jan-2021 16:45:49 UTC] PHP   1. {main}() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[26-Jan-2021 16:45:49 UTC] PHP   1. {main}() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[26-Jan-2021 16:45:49 UTC] PHP   2. include() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[26-Jan-2021 16:45:49 UTC] PHP   2. include() F:\Users\Erick Q\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[26-Jan-2021 16:45:49 UTC] PHP   3. include() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[26-Jan-2021 16:45:49 UTC] PHP   3. include() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[26-Jan-2021 16:45:49 UTC] PHP   4. WP_CLI\bootstrap() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[26-Jan-2021 16:45:49 UTC] PHP   4. WP_CLI\bootstrap() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[26-Jan-2021 16:45:49 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[26-Jan-2021 16:45:49 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[26-Jan-2021 16:45:49 UTC] PHP   6. WP_CLI\Runner->start() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[26-Jan-2021 16:45:49 UTC] PHP   6. WP_CLI\Runner->start() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[26-Jan-2021 16:45:49 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[26-Jan-2021 16:45:49 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[26-Jan-2021 16:45:49 UTC] PHP   8. require() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[26-Jan-2021 16:45:49 UTC] PHP   8. require() phar://F:/Users/Erick Q/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[26-Jan-2021 16:45:49 UTC] PHP   9. do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php:535
+[26-Jan-2021 16:45:49 UTC] PHP   9. do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-settings.php:535
+[26-Jan-2021 16:45:49 UTC] PHP  10. WP_Hook->do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php:484
+[26-Jan-2021 16:45:49 UTC] PHP  10. WP_Hook->do_action() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\plugin.php:484
+[26-Jan-2021 16:45:49 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:311
+[26-Jan-2021 16:45:49 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php:311
+[26-Jan-2021 17:03:04 UTC] PHP Parse error:  syntax error, unexpected ''post_type'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\Erick Q\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page-past-events.php on line 21
